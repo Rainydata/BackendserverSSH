@@ -3,7 +3,6 @@ bryan benavides
 ## Included Files
 - `deploy.sh`: Script to deploy the application to a remote server.
 - `greetings.txt`: Greeting file generated during deployment.
-- `main.py`: API source code.
 - `index.html`: Web interface to interact with the API.
 
 ## Deployment Instructions
